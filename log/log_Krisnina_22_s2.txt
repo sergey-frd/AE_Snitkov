@@ -1,0 +1,85 @@
+====================
+Krisnina_22_s2 Date: Fri Oct 21 2022 11:37:10 GMT+0300
+ getRandomInt: 8
+ getRandomInt: 2
+ getRandomInt: 1
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 0
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Krisnina\\xml\\ae_System_22_s2.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Krisnina\\xml\\ae_System_22_s2.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_09.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/Krrist_22/spr/249354301_6464389460270350_5095926137880969352_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/Krrist_22/spr/293465236_7821873157855300_6754325819126565917_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_10.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_11.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_12.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_13.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/Krrist_22/spr/306087218_8093802683995678_5540015931382615406_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/Krrist_22/spr/245418559_6363986070310690_6381377629872669561_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_08.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_07.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/Krrist_22/spr/274263705_7154032904639332_3857914747153640986_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/Krrist_22/spr/298829884_7957947834247831_2600011335121947883_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_06.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_04.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kristina/2022/FB/IG/221021_05.jpg</pathurl>
+</Stuff>
+filePathUrl.length= 16
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_09.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\Krrist_22\\spr\\249354301_6464389460270350_5095926137880969352_n-s.jpeg
+!! Not found findItem 
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\Krrist_22\\spr\\293465236_7821873157855300_6754325819126565917_n-s.jpeg
+!! Not found findItem 
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_10.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_11.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_12.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_13.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\Krrist_22\\spr\\306087218_8093802683995678_5540015931382615406_n-s.jpeg
+!! Not found findItem 
+!! Not found findItem 
+ i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\Krrist_22\\spr\\245418559_6363986070310690_6381377629872669561_n-s.jpeg
+!! Not found findItem 
+!! Not found findItem 
+ i= 10  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_08.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 11  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_07.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 12  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\Krrist_22\\spr\\274263705_7154032904639332_3857914747153640986_n-s.jpeg
+!! Not found findItem 
+!! Not found findItem 
+ i= 13  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\Krrist_22\\spr\\298829884_7957947834247831_2600011335121947883_n-s.jpeg
+!! Not found findItem 
+!! Not found findItem 
+ i= 14  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_06.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 15  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_04.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 16  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kristina\\2022\\FB\\IG\\221021_05.jpg
+!! Not found findItem 
+!! Not found findItem 
+====================
